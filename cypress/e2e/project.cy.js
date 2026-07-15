@@ -136,7 +136,7 @@ describe('Projects Dashboard Image URL Scraper', () => {
         })
         cy.writeFile(`${reportDir}/project-image-urls.txt`, txtLines.join('\n'))
 
-        // Step 8: Trigger browser download of both files
+        
         cy.window().then((win) => {
           const jsonBlob = new win.Blob([JSON.stringify(report, null, 2)], { type: 'application/json' })
           const jsonUrl = win.URL.createObjectURL(jsonBlob)
