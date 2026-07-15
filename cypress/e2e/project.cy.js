@@ -1,37 +1,36 @@
-describe('Kitchen Dashboard Image URL Scraper', () => {
+describe('Projects Dashboard Image URL Scraper', () => {
 
-  it('should collect all image URLs from Kitchen dashboard cards and download report', () => {
+  it('should collect all image URLs from Projects dashboard cards and download report', () => {
     cy.on('uncaught:exception', () => false)
 
     cy.viewport(1920, 1080)
 
-    
     cy.visit('https://pgkltd.co.uk/', { timeout: 120000 })
     cy.url().should('eq', 'https://pgkltd.co.uk/')
 
    
-    cy.get('#menu-landing-page').contains('a', 'Kitchens').click({ force: true })
-    cy.url().should('include', '/kitchens')
+    cy.get('#menu-landing-page').contains('a', 'Projects').click({ force: true })
+    cy.url().should('include', '/projects')
 
    
-    cy.get('a[href]').then(($links) => {
-      const allHrefs = [...new Set([...$links].map(a => a.href))]
+    const maxScrolls = 20
+    for (let i = 0; i < maxScrolls; i++) {
+      cy.scrollTo('bottom')
+      cy.wait(1500)
+    }
 
-      const cardUrls = allHrefs.filter(href =>
-        href.match(/\/collections\/[^/]+\/$/) ||
-        href.match(/\/portfolio\/[^/]+\/$/)
-      )
+    cy.get('.pgkf-link').then(($cards) => {
+      const cardUrls = [...new Set([...$cards].map(a => a.href))]
 
-      cy.log(`Found ${cardUrls.length} kitchen dashboard cards`)
+      cy.log(`Found ${cardUrls.length} project dashboard cards`)
       expect(cardUrls.length).to.be.greaterThan(0)
 
-     
+      
       const results = {}
 
       cy.wrap(cardUrls).each((url, index) => {
         cy.visit(url, { timeout: 120000 })
 
-      
         cy.window().then((win) => {
           const doc = win.document
           const scrollHeight = doc.body.scrollHeight
@@ -48,11 +47,10 @@ describe('Kitchen Dashboard Image URL Scraper', () => {
 
         cy.wait(2000)
 
-        
+       
         cy.get('body').then(($body) => {
           const pageImages = []
 
-         
           $body.find('img').each((_, img) => {
             const src = img.getAttribute('src') ||
               img.getAttribute('data-src') ||
@@ -72,7 +70,6 @@ describe('Kitchen Dashboard Image URL Scraper', () => {
             }
           })
 
-          
           $body.find('[data-bg]').each((_, el) => {
             const bg = el.getAttribute('data-bg')
             if (bg && bg.trim().startsWith('http')) {
@@ -87,7 +84,6 @@ describe('Kitchen Dashboard Image URL Scraper', () => {
             }
           })
 
-         
           $body.find('[style*="background-image"]').each((_, el) => {
             const style = el.getAttribute('style') || ''
             const match = style.match(/url\(['"]?(https?:\/\/[^'")\s]+)['"]?\)/)
@@ -110,9 +106,9 @@ describe('Kitchen Dashboard Image URL Scraper', () => {
         cy.log(`Total cards scraped: ${Object.keys(results).length}`)
         cy.log(`Total unique image URLs: ${uniqueImageUrls.length}`)
 
-        
         const report = {
           scrapeDate: new Date().toISOString(),
+          section: 'Projects',
           totalCards: Object.keys(results).length,
           totalUniqueImages: uniqueImageUrls.length,
           cards: results,
@@ -121,10 +117,10 @@ describe('Kitchen Dashboard Image URL Scraper', () => {
 
         
         const reportDir = 'cypress/downloads'
-        cy.writeFile(`${reportDir}/kitchen-image-urls.json`, JSON.stringify(report, null, 2))
+        cy.writeFile(`${reportDir}/project-image-urls.json`, JSON.stringify(report, null, 2))
 
         const txtLines = [
-          '=== KITCHEN DASHBOARD IMAGE URL REPORT ===',
+          '=== PROJECTS DASHBOARD IMAGE URL REPORT ===',
           `Generated: ${report.scrapeDate}`,
           `Total Cards Scraped: ${report.totalCards}`,
           `Total Unique Image URLs: ${report.totalUniqueImages}`,
@@ -138,15 +134,15 @@ describe('Kitchen Dashboard Image URL Scraper', () => {
           txtLines.push(`\n[Card] ${cardUrl}`)
           urls.forEach((url, i) => txtLines.push(`  ${i + 1}. ${url}`))
         })
-        cy.writeFile(`${reportDir}/kitchen-image-urls.txt`, txtLines.join('\n'))
+        cy.writeFile(`${reportDir}/project-image-urls.txt`, txtLines.join('\n'))
 
-        
+        // Step 8: Trigger browser download of both files
         cy.window().then((win) => {
           const jsonBlob = new win.Blob([JSON.stringify(report, null, 2)], { type: 'application/json' })
           const jsonUrl = win.URL.createObjectURL(jsonBlob)
           const jsonLink = win.document.createElement('a')
           jsonLink.href = jsonUrl
-          jsonLink.download = 'kitchen-image-urls.json'
+          jsonLink.download = 'project-image-urls.json'
           win.document.body.appendChild(jsonLink)
           jsonLink.click()
           win.document.body.removeChild(jsonLink)
@@ -159,14 +155,14 @@ describe('Kitchen Dashboard Image URL Scraper', () => {
           const txtUrl = win.URL.createObjectURL(txtBlob)
           const txtLink = win.document.createElement('a')
           txtLink.href = txtUrl
-          txtLink.download = 'kitchen-image-urls.txt'
+          txtLink.download = 'project-image-urls.txt'
           win.document.body.appendChild(txtLink)
           txtLink.click()
           win.document.body.removeChild(txtLink)
           win.URL.revokeObjectURL(txtUrl)
         })
 
-        cy.log('Report files downloaded: kitchen-image-urls.json & kitchen-image-urls.txt')
+        cy.log('Report files downloaded: project-image-urls.json & project-image-urls.txt')
 
         expect(uniqueImageUrls.length).to.be.greaterThan(0)
         uniqueImageUrls.forEach((url) => {
