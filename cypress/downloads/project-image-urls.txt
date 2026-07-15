@@ -1,0 +1,695 @@
+=== PROJECTS DASHBOARD IMAGE URL REPORT ===
+Generated: 2026-07-15T19:53:58.928Z
+Total Cards Scraped: 12
+Total Unique Image URLs: 280
+
+--- ALL UNIQUE IMAGE URLs ---
+1. https://media.pgkltd.co.uk/2025/03/centre.svg
+2. https://media.pgkltd.co.uk/2025/07/left_white.svg
+3. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27211%27%20height%3D%2754%27%20viewBox%3D%270%200%20211%2054%27%3E%3Crect%20width%3D%27211%27%20height%3D%2754%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+4. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27133%27%20height%3D%2746%27%20viewBox%3D%270%200%20133%2046%27%3E%3Crect%20width%3D%27133%27%20height%3D%2746%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+5. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085111/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-AT-Moods-Board-1-1024x681.jpeg
+6. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085111/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-AT-Moods-Board-2.jpg
+7. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085110/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-AT-Moods-Board-3.jpg
+8. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085110/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-AT-Moods-Board-1.jpg
+9. https://media.pgkltd.co.uk/2025/02/Fjord-Blue-Concrete-Charm-2.jpg
+10. https://media.pgkltd.co.uk/2025/02/Fjord-Blue-Concrete-Charm-2-200x110.jpg
+11. https://media.pgkltd.co.uk/2025/02/Fjord-Blue-Concrete-Charm-2-400x221.jpg
+12. https://media.pgkltd.co.uk/2025/02/Fjord-Blue-Concrete-Charm-2-600x331.jpg
+13. https://media.pgkltd.co.uk/2025/02/Fjord-Blue-Concrete-Charm-2-800x442.jpg
+14. https://media.pgkltd.co.uk/2025/02/Fjord-Blue-Concrete-Charm-2-1200x663.jpg
+15. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083642/Fjord-Blue-Concrete-Charm-1-1024x566.jpg
+16. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083641/Fjord-Blue-Concrete-Charm-3-1024x576.jpg
+17. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085107/PGK-%E2%80%A2-FC-Fjord-Blue-2-1024x681.png
+18. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-7.png
+19. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-7-200x133.png
+20. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-7-400x266.png
+21. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-7-600x399.png
+22. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-7-800x532.png
+23. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-7-1200x799.png
+24. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085100/PGK-%E2%80%A2-FC-Fjord-Blue-8-1024x681.png
+25. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085059/PGK-%E2%80%A2-FC-Fjord-Blue-9-1024x681.png
+26. https://media.pgkltd.co.uk/2024/12/Quooker.svg
+27. https://media.pgkltd.co.uk/2024/12/Bosch.svg
+28. https://media.pgkltd.co.uk/2025/01/brochure-nogap.svg
+29. https://media.pgkltd.co.uk/2024/10/pgk-logo.svg
+30. https://media.pgkltd.co.uk/2024/12/Google-logo-grey.svg
+31. https://media.pgkltd.co.uk/2025/01/Logo-2025-Col.svg
+32. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-13.png
+33. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-8.png
+34. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-3.png
+35. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085124/PGK-%E2%80%A2-AC-%E2%80%A2-Contemporary-Moods-Board-5.jpg
+36. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085123/PGK-%E2%80%A2-AC-%E2%80%A2-Contemporary-Moods-Board-6.jpg
+37. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085122/PGK-%E2%80%A2-AC-%E2%80%A2-Contemporary-Moods-Board-4.jpg
+38. https://media.pgkltd.co.uk/2025/02/Grigio-Smeraldo-Coastal-1.jpg
+39. https://media.pgkltd.co.uk/2025/02/Grigio-Smeraldo-Coastal-1-200x110.jpg
+40. https://media.pgkltd.co.uk/2025/02/Grigio-Smeraldo-Coastal-1-400x221.jpg
+41. https://media.pgkltd.co.uk/2025/02/Grigio-Smeraldo-Coastal-1-600x331.jpg
+42. https://media.pgkltd.co.uk/2025/02/Grigio-Smeraldo-Coastal-1-800x442.jpg
+43. https://media.pgkltd.co.uk/2025/02/Grigio-Smeraldo-Coastal-1-1200x663.jpg
+44. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083645/Grigio-Smeraldo-Coastal-3-1024x566.jpg
+45. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083646/Grigio-Smeraldo-Coastal-2-1024x576.jpg
+46. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-15.jpg
+47. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-15-200x133.jpg
+48. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-15-400x266.jpg
+49. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-15-600x399.jpg
+50. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-15-800x532.jpg
+51. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-15-1200x799.jpg
+52. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085135/PGK-%E2%80%A2-AC-Gemma-Roofing-%E2%80%93-Irida-1-1024x681.jpg
+53. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085128/PGK-%E2%80%A2-AC-Gemma-Roofing-%E2%80%93-Irida-10-1024x681.jpg
+54. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085131/PGK-%E2%80%A2-AC-Gemma-Roofing-%E2%80%93-Irida-6-1024x681.jpg
+55. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-14.jpg
+56. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-2.jpg
+57. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-7.jpg
+58. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-4.jpg
+59. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-1.jpg
+60. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-10.jpg
+61. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085137/PGK-%E2%80%A2-AC-%E2%80%A2-Contemporary-Moods-Board-2.jpg
+62. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085136/PGK-%E2%80%A2-AC-%E2%80%A2-Contemporary-Moods-Board-1.jpg
+63. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085136/PGK-%E2%80%A2-AC-%E2%80%A2-Contemporary-Moods-Board-3.jpg
+64. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085139/PGK-%E2%80%A2-AC-%E2%80%A2-Contemporary-Moods-Board-1.jpeg
+65. https://media.pgkltd.co.uk/2025/02/Champagne-Metal-Effect-Lacquer-1.jpg
+66. https://media.pgkltd.co.uk/2025/02/Champagne-Metal-Effect-Lacquer-1-200x110.jpg
+67. https://media.pgkltd.co.uk/2025/02/Champagne-Metal-Effect-Lacquer-1-400x221.jpg
+68. https://media.pgkltd.co.uk/2025/02/Champagne-Metal-Effect-Lacquer-1-600x331.jpg
+69. https://media.pgkltd.co.uk/2025/02/Champagne-Metal-Effect-Lacquer-1-800x442.jpg
+70. https://media.pgkltd.co.uk/2025/02/Champagne-Metal-Effect-Lacquer-1-1200x663.jpg
+71. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083649/Champagne-Metal-Effect-Lacquer-3-1024x566.jpg
+72. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083650/Champagne-Metal-Effect-Lacquer-2-1024x576.jpg
+73. https://media.pgkltd.co.uk/wp-content/uploads/2025/03/26083613/DSC_1516_HDR-1024x682.jpg
+74. https://media.pgkltd.co.uk/2025/03/DSC_1488_HDR.jpg
+75. https://media.pgkltd.co.uk/wp-content/uploads/2025/03/26083614/DSC_1510_HDR-1024x682.jpg
+76. https://media.pgkltd.co.uk/wp-content/uploads/2025/03/26083617/DSC_1491-1024x682.jpg
+77. https://media.pgkltd.co.uk/wp-content/uploads/2025/03/26083616/DSC_1498_HDR-1024x682.jpg
+78. https://media.pgkltd.co.uk/2025/03/DSC_1525_HDR.jpg
+79. https://media.pgkltd.co.uk/2025/03/DSC_1516_HDR.jpg
+80. https://media.pgkltd.co.uk/2025/03/DSC_1495_HDR.jpg
+81. https://media.pgkltd.co.uk/2025/03/DSC_1501_HDR.jpg
+82. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085153/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Black-Green-Greige-Silky-Matt-Moods-Board-7.jpeg
+83. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085153/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Black-Green-Greige-Silky-Matt-Moods-Board-8.jpeg
+84. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085151/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Black-Green-Greige-Silky-Matt-Moods-Board-6.jpeg
+85. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085152/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Black-Green-Greige-Silky-Matt-Moods-Board-9.jpeg
+86. https://media.pgkltd.co.uk/2025/02/Black-Green-Greige-Fusion-1.jpg
+87. https://media.pgkltd.co.uk/2025/02/Black-Green-Greige-Fusion-1-200x110.jpg
+88. https://media.pgkltd.co.uk/2025/02/Black-Green-Greige-Fusion-1-400x221.jpg
+89. https://media.pgkltd.co.uk/2025/02/Black-Green-Greige-Fusion-1-600x331.jpg
+90. https://media.pgkltd.co.uk/2025/02/Black-Green-Greige-Fusion-1-800x442.jpg
+91. https://media.pgkltd.co.uk/2025/02/Black-Green-Greige-Fusion-1-1200x663.jpg
+92. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083651/Black-Green-Greige-Fusion-3.jpg
+93. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083652/Black-Green-Greige-Fusion-2.jpg
+94. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085145/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Contemporary-Black-Green-Greige-Silky-Matt-8.jpg
+95. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-6.jpg
+96. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-1.jpg
+97. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-1-200x133.jpg
+98. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-1-400x266.jpg
+99. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-1-600x399.jpg
+100. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-1-800x532.jpg
+101. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-1-1200x799.jpg
+102. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-7.jpg
+103. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-7-200x133.jpg
+104. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-7-400x266.jpg
+105. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-7-600x399.jpg
+106. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-7-800x532.jpg
+107. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-7-1200x799.jpg
+108. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-4.jpg
+109. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-4-200x133.jpg
+110. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-4-400x266.jpg
+111. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-4-600x399.jpg
+112. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-4-800x532.jpg
+113. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-4-1200x799.jpg
+114. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-3.jpg
+115. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-5.jpg
+116. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-8.jpg
+117. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-2.jpg
+118. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085200/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Aptum-Moods-Board-2.jpeg
+119. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085159/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Aptum-Moods-Board-3.jpeg
+120. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085158/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Aptum-Moods-Board-4.jpeg
+121. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085200/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Aptum-Moods-Board-1.jpeg
+122. https://media.pgkltd.co.uk/2025/01/Anthracite-Fluted-Walnut-2.jpg
+123. https://media.pgkltd.co.uk/2025/01/Anthracite-Fluted-Walnut-2-200x113.jpg
+124. https://media.pgkltd.co.uk/2025/01/Anthracite-Fluted-Walnut-2-400x225.jpg
+125. https://media.pgkltd.co.uk/2025/01/Anthracite-Fluted-Walnut-2-600x338.jpg
+126. https://media.pgkltd.co.uk/2025/01/Anthracite-Fluted-Walnut-2-800x450.jpg
+127. https://media.pgkltd.co.uk/2025/01/Anthracite-Fluted-Walnut-2-1200x675.jpg
+128. https://media.pgkltd.co.uk/wp-content/uploads/2025/01/26084225/Anthracite-Fluted-Walnut-3.jpg
+129. https://media.pgkltd.co.uk/wp-content/uploads/2025/01/26084227/Anthracite-Fluted-Walnut-1.jpg
+130. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5.jpg
+131. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-200x133.jpg
+132. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-400x266.jpg
+133. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-600x399.jpg
+134. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-800x532.jpg
+135. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-1200x799.jpg
+136. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-1.jpg
+137. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-1-200x133.jpg
+138. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-1-400x266.jpg
+139. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-1-600x399.jpg
+140. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-1-800x532.jpg
+141. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-1-1200x799.jpg
+142. https://media.pgkltd.co.uk/2025/01/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-1.jpg
+143. https://media.pgkltd.co.uk/2025/01/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-1-200x133.jpg
+144. https://media.pgkltd.co.uk/2025/01/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-1-400x266.jpg
+145. https://media.pgkltd.co.uk/2025/01/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-1-600x399.jpg
+146. https://media.pgkltd.co.uk/2025/01/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-1-800x532.jpg
+147. https://media.pgkltd.co.uk/2025/01/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-1-1200x799.jpg
+148. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-3.jpg
+149. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-3-200x133.jpg
+150. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-3-400x266.jpg
+151. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-3-600x399.jpg
+152. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-3-800x532.jpg
+153. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-3-1200x799.jpg
+154. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-8.jpg
+155. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-6.jpg
+156. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085210/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Ellesmere-Rd-Mood-1.jpg
+157. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085211/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Ellesmere-Rd-Mood-2.jpg
+158. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085210/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Ellesmere-Rd-Mood-3.jpg
+159. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085209/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Ellesmere-Rd-Mood.jpg
+160. https://media.pgkltd.co.uk/2025/02/Plaster-Brass-Serenity-1.jpg
+161. https://media.pgkltd.co.uk/2025/02/Plaster-Brass-Serenity-1-200x127.jpg
+162. https://media.pgkltd.co.uk/2025/02/Plaster-Brass-Serenity-1-400x255.jpg
+163. https://media.pgkltd.co.uk/2025/02/Plaster-Brass-Serenity-1-600x382.jpg
+164. https://media.pgkltd.co.uk/2025/02/Plaster-Brass-Serenity-1-800x510.jpg
+165. https://media.pgkltd.co.uk/2025/02/Plaster-Brass-Serenity-1-1200x765.jpg
+166. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083654/Plaster-Brass-Serenity-2.jpg
+167. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083653/Plaster-Brass-Serenity-3.jpg
+168. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-1.jpg
+169. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-1-200x133.jpg
+170. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-1-400x266.jpg
+171. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-1-600x399.jpg
+172. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-1-800x532.jpg
+173. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-1-1200x799.jpg
+174. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-5.jpg
+175. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-5-200x133.jpg
+176. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-5-400x266.jpg
+177. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-5-600x399.jpg
+178. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-5-800x532.jpg
+179. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-5-1200x799.jpg
+180. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-8.jpg
+181. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-8-200x133.jpg
+182. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-8-400x266.jpg
+183. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-8-600x399.jpg
+184. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-8-800x532.jpg
+185. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-8-1200x799.jpg
+186. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-9.jpg
+187. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-3.jpg
+188. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-7.jpg
+189. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-2.jpg
+190. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085229/PGK-Focus-Contemporary-Mood-2.jpeg
+191. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085138/PGK-Focus-Traditional-Mood-2.jpg
+192. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085138/PGK-Focus-Traditional-Mood-1.jpg
+193. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085218/PGK-Focus-Traditional-Mood.jpeg
+194. https://media.pgkltd.co.uk/2025/02/Slate-Shaker-Harmony-2.jpg
+195. https://media.pgkltd.co.uk/2025/02/Slate-Shaker-Harmony-2-200x127.jpg
+196. https://media.pgkltd.co.uk/2025/02/Slate-Shaker-Harmony-2-400x255.jpg
+197. https://media.pgkltd.co.uk/2025/02/Slate-Shaker-Harmony-2-600x382.jpg
+198. https://media.pgkltd.co.uk/2025/02/Slate-Shaker-Harmony-2-800x510.jpg
+199. https://media.pgkltd.co.uk/2025/02/Slate-Shaker-Harmony-2-1200x765.jpg
+200. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083658/Slate-Shaker-Harmony-1.jpg
+201. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083656/Slate-Shaker-Harmony-3.jpg
+202. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085241/Focus-%E2%80%93-Traditional-%E2%80%93-Malbern-Rd-UB3-%E2%80%93-PGK-2.jpg
+203. https://media.pgkltd.co.uk/2025/03/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-14.jpg
+204. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085245/Focus-%E2%80%93-Traditional-%E2%80%93-Malbern-Rd-UB3-%E2%80%93-PGK-7.jpg
+205. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-6.jpg
+206. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-6-200x133.jpg
+207. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-6-400x267.jpg
+208. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-6-600x400.jpg
+209. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-6-800x533.jpg
+210. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-6-1200x800.jpg
+211. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-4.jpg
+212. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-4-200x133.jpg
+213. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-4-400x267.jpg
+214. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-4-600x400.jpg
+215. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-4-800x533.jpg
+216. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-4-1200x800.jpg
+217. https://media.pgkltd.co.uk/2025/03/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-2.jpg
+218. https://media.pgkltd.co.uk/2025/03/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-5.jpg
+219. https://media.pgkltd.co.uk/2025/03/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-8.jpg
+220. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-3.jpg
+221. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-5.jpg
+222. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085230/Focus-Contemporary-OCEAN-GREY-Porcelain-Slabs.jpg
+223. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085229/benchtops-concrete-look-basalt.jpg
+224. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085228/PGK-Focus-Contemporary-Mood-1.jpeg
+225. https://media.pgkltd.co.uk/2025/02/Concrete-Metallic-Elegance-2.jpg
+226. https://media.pgkltd.co.uk/2025/02/Concrete-Metallic-Elegance-2-200x127.jpg
+227. https://media.pgkltd.co.uk/2025/02/Concrete-Metallic-Elegance-2-400x255.jpg
+228. https://media.pgkltd.co.uk/2025/02/Concrete-Metallic-Elegance-2-600x382.jpg
+229. https://media.pgkltd.co.uk/2025/02/Concrete-Metallic-Elegance-2-800x510.jpg
+230. https://media.pgkltd.co.uk/2025/02/Concrete-Metallic-Elegance-2-1200x765.jpg
+231. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083700/Concrete-Metallic-Elegance-3.jpg
+232. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083659/Concrete-Metallic-Elegance-1.jpg
+233. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-9.jpg
+234. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-9-200x133.jpg
+235. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-9-400x266.jpg
+236. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-9-600x399.jpg
+237. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-9-800x532.jpg
+238. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-9-1200x799.jpg
+239. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-12.jpg
+240. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-12-200x133.jpg
+241. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-12-400x266.jpg
+242. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-12-600x399.jpg
+243. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-12-800x532.jpg
+244. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-12-1200x799.jpg
+245. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085237/Focus-Contemporary-%E2%80%93-White-Concrete-Basalt-PGK-4.jpg
+246. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085238/Focus-Contemporary-%E2%80%93-White-Concrete-Basalt-PGK-3.jpg
+247. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-2.jpg
+248. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-4.jpg
+249. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-5.jpg
+250. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-7.jpg
+251. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-1.jpg
+252. https://media.pgkltd.co.uk/2025/10/DSC01354.jpg
+253. https://media.pgkltd.co.uk/2025/10/DSC01344.jpg
+254. https://media.pgkltd.co.uk/2025/10/DSC01359.jpg
+255. https://media.pgkltd.co.uk/2025/10/DSC01360.jpg
+256. https://media.pgkltd.co.uk/2025/10/DSC01362.jpg
+257. https://media.pgkltd.co.uk/2025/10/DSC01377.jpg
+258. https://media.pgkltd.co.uk/2025/10/DSC01321.jpg
+259. https://media.pgkltd.co.uk/2025/10/DSC01309.jpg
+260. https://media.pgkltd.co.uk/2025/10/DSC01325.jpg
+261. https://media.pgkltd.co.uk/2025/10/DSC01331.jpg
+262. https://media.pgkltd.co.uk/2025/10/DSC00960.jpg
+263. https://media.pgkltd.co.uk/2025/10/DSC00998.jpg
+264. https://media.pgkltd.co.uk/2025/10/DSC00996.jpg
+265. https://media.pgkltd.co.uk/2025/10/DSC00993.jpg
+266. https://media.pgkltd.co.uk/2025/10/DSC00991.jpg
+267. https://media.pgkltd.co.uk/2025/10/DSC00985.jpg
+268. https://media.pgkltd.co.uk/2025/10/DSC00974.jpg
+269. https://media.pgkltd.co.uk/2025/10/DSC00955.jpg
+270. https://media.pgkltd.co.uk/2025/10/DSC00952.jpg
+271. https://media.pgkltd.co.uk/2025/10/DSC00950.jpg
+272. https://media.pgkltd.co.uk/2025/10/DSC00948.jpg
+273. https://media.pgkltd.co.uk/2025/10/DSC00945.jpg
+274. https://media.pgkltd.co.uk/2025/10/DSC00972.jpg
+275. https://media.pgkltd.co.uk/2025/10/DSC00895.jpg
+276. https://media.pgkltd.co.uk/2025/10/DSC009311.jpg
+277. https://media.pgkltd.co.uk/2025/10/DSC00913.jpg
+278. https://media.pgkltd.co.uk/2025/10/DSC00911.jpg
+279. https://media.pgkltd.co.uk/2025/10/DSC00907.jpg
+280. https://media.pgkltd.co.uk/2025/10/DSC00898.jpg
+
+--- URLS BY CARD ---
+
+[Card] https://pgkltd.co.uk/portfolio/fjord-blue-concrete-grey/
+  1. https://media.pgkltd.co.uk/2025/03/centre.svg
+  2. https://media.pgkltd.co.uk/2025/07/left_white.svg
+  3. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27211%27%20height%3D%2754%27%20viewBox%3D%270%200%20211%2054%27%3E%3Crect%20width%3D%27211%27%20height%3D%2754%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  4. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27133%27%20height%3D%2746%27%20viewBox%3D%270%200%20133%2046%27%3E%3Crect%20width%3D%27133%27%20height%3D%2746%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  5. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085111/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-AT-Moods-Board-1-1024x681.jpeg
+  6. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085111/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-AT-Moods-Board-2.jpg
+  7. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085110/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-AT-Moods-Board-3.jpg
+  8. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085110/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-AT-Moods-Board-1.jpg
+  9. https://media.pgkltd.co.uk/2025/02/Fjord-Blue-Concrete-Charm-2.jpg
+  10. https://media.pgkltd.co.uk/2025/02/Fjord-Blue-Concrete-Charm-2-200x110.jpg
+  11. https://media.pgkltd.co.uk/2025/02/Fjord-Blue-Concrete-Charm-2-400x221.jpg
+  12. https://media.pgkltd.co.uk/2025/02/Fjord-Blue-Concrete-Charm-2-600x331.jpg
+  13. https://media.pgkltd.co.uk/2025/02/Fjord-Blue-Concrete-Charm-2-800x442.jpg
+  14. https://media.pgkltd.co.uk/2025/02/Fjord-Blue-Concrete-Charm-2-1200x663.jpg
+  15. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083642/Fjord-Blue-Concrete-Charm-1-1024x566.jpg
+  16. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083641/Fjord-Blue-Concrete-Charm-3-1024x576.jpg
+  17. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085107/PGK-%E2%80%A2-FC-Fjord-Blue-2-1024x681.png
+  18. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-7.png
+  19. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-7-200x133.png
+  20. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-7-400x266.png
+  21. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-7-600x399.png
+  22. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-7-800x532.png
+  23. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-7-1200x799.png
+  24. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085100/PGK-%E2%80%A2-FC-Fjord-Blue-8-1024x681.png
+  25. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085059/PGK-%E2%80%A2-FC-Fjord-Blue-9-1024x681.png
+  26. https://media.pgkltd.co.uk/2024/12/Quooker.svg
+  27. https://media.pgkltd.co.uk/2024/12/Bosch.svg
+  28. https://media.pgkltd.co.uk/2025/01/brochure-nogap.svg
+  29. https://media.pgkltd.co.uk/2024/10/pgk-logo.svg
+  30. https://media.pgkltd.co.uk/2024/12/Google-logo-grey.svg
+  31. https://media.pgkltd.co.uk/2025/01/Logo-2025-Col.svg
+  32. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-13.png
+  33. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-8.png
+  34. https://media.pgkltd.co.uk/2024/12/PGK-•-FC-Fjord-Blue-3.png
+
+[Card] https://pgkltd.co.uk/portfolio/grigio-smeraldo-coastal/
+  1. https://media.pgkltd.co.uk/2025/03/centre.svg
+  2. https://media.pgkltd.co.uk/2025/07/left_white.svg
+  3. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27211%27%20height%3D%2754%27%20viewBox%3D%270%200%20211%2054%27%3E%3Crect%20width%3D%27211%27%20height%3D%2754%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  4. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27133%27%20height%3D%2746%27%20viewBox%3D%270%200%20133%2046%27%3E%3Crect%20width%3D%27133%27%20height%3D%2746%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  5. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085124/PGK-%E2%80%A2-AC-%E2%80%A2-Contemporary-Moods-Board-5.jpg
+  6. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085123/PGK-%E2%80%A2-AC-%E2%80%A2-Contemporary-Moods-Board-6.jpg
+  7. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085122/PGK-%E2%80%A2-AC-%E2%80%A2-Contemporary-Moods-Board-4.jpg
+  8. https://media.pgkltd.co.uk/2025/02/Grigio-Smeraldo-Coastal-1.jpg
+  9. https://media.pgkltd.co.uk/2025/02/Grigio-Smeraldo-Coastal-1-200x110.jpg
+  10. https://media.pgkltd.co.uk/2025/02/Grigio-Smeraldo-Coastal-1-400x221.jpg
+  11. https://media.pgkltd.co.uk/2025/02/Grigio-Smeraldo-Coastal-1-600x331.jpg
+  12. https://media.pgkltd.co.uk/2025/02/Grigio-Smeraldo-Coastal-1-800x442.jpg
+  13. https://media.pgkltd.co.uk/2025/02/Grigio-Smeraldo-Coastal-1-1200x663.jpg
+  14. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083645/Grigio-Smeraldo-Coastal-3-1024x566.jpg
+  15. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083646/Grigio-Smeraldo-Coastal-2-1024x576.jpg
+  16. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-15.jpg
+  17. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-15-200x133.jpg
+  18. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-15-400x266.jpg
+  19. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-15-600x399.jpg
+  20. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-15-800x532.jpg
+  21. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-15-1200x799.jpg
+  22. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085135/PGK-%E2%80%A2-AC-Gemma-Roofing-%E2%80%93-Irida-1-1024x681.jpg
+  23. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085128/PGK-%E2%80%A2-AC-Gemma-Roofing-%E2%80%93-Irida-10-1024x681.jpg
+  24. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085131/PGK-%E2%80%A2-AC-Gemma-Roofing-%E2%80%93-Irida-6-1024x681.jpg
+  25. https://media.pgkltd.co.uk/2024/12/Quooker.svg
+  26. https://media.pgkltd.co.uk/2024/12/Bosch.svg
+  27. https://media.pgkltd.co.uk/2025/01/brochure-nogap.svg
+  28. https://media.pgkltd.co.uk/2024/10/pgk-logo.svg
+  29. https://media.pgkltd.co.uk/2024/12/Google-logo-grey.svg
+  30. https://media.pgkltd.co.uk/2025/01/Logo-2025-Col.svg
+  31. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-14.jpg
+  32. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-2.jpg
+  33. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-7.jpg
+  34. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-4.jpg
+  35. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-1.jpg
+  36. https://media.pgkltd.co.uk/2024/12/PGK-•-AC-Gemma-Roofing-–-Irida-10.jpg
+
+[Card] https://pgkltd.co.uk/portfolio/champagne-oakelegance/
+  1. https://media.pgkltd.co.uk/2025/03/centre.svg
+  2. https://media.pgkltd.co.uk/2025/07/left_white.svg
+  3. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27211%27%20height%3D%2754%27%20viewBox%3D%270%200%20211%2054%27%3E%3Crect%20width%3D%27211%27%20height%3D%2754%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  4. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27133%27%20height%3D%2746%27%20viewBox%3D%270%200%20133%2046%27%3E%3Crect%20width%3D%27133%27%20height%3D%2746%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  5. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085137/PGK-%E2%80%A2-AC-%E2%80%A2-Contemporary-Moods-Board-2.jpg
+  6. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085136/PGK-%E2%80%A2-AC-%E2%80%A2-Contemporary-Moods-Board-1.jpg
+  7. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085136/PGK-%E2%80%A2-AC-%E2%80%A2-Contemporary-Moods-Board-3.jpg
+  8. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085139/PGK-%E2%80%A2-AC-%E2%80%A2-Contemporary-Moods-Board-1.jpeg
+  9. https://media.pgkltd.co.uk/2025/02/Champagne-Metal-Effect-Lacquer-1.jpg
+  10. https://media.pgkltd.co.uk/2025/02/Champagne-Metal-Effect-Lacquer-1-200x110.jpg
+  11. https://media.pgkltd.co.uk/2025/02/Champagne-Metal-Effect-Lacquer-1-400x221.jpg
+  12. https://media.pgkltd.co.uk/2025/02/Champagne-Metal-Effect-Lacquer-1-600x331.jpg
+  13. https://media.pgkltd.co.uk/2025/02/Champagne-Metal-Effect-Lacquer-1-800x442.jpg
+  14. https://media.pgkltd.co.uk/2025/02/Champagne-Metal-Effect-Lacquer-1-1200x663.jpg
+  15. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083649/Champagne-Metal-Effect-Lacquer-3-1024x566.jpg
+  16. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083650/Champagne-Metal-Effect-Lacquer-2-1024x576.jpg
+  17. https://media.pgkltd.co.uk/wp-content/uploads/2025/03/26083613/DSC_1516_HDR-1024x682.jpg
+  18. https://media.pgkltd.co.uk/2025/03/DSC_1488_HDR.jpg
+  19. https://media.pgkltd.co.uk/wp-content/uploads/2025/03/26083614/DSC_1510_HDR-1024x682.jpg
+  20. https://media.pgkltd.co.uk/wp-content/uploads/2025/03/26083617/DSC_1491-1024x682.jpg
+  21. https://media.pgkltd.co.uk/wp-content/uploads/2025/03/26083616/DSC_1498_HDR-1024x682.jpg
+  22. https://media.pgkltd.co.uk/2024/12/Quooker.svg
+  23. https://media.pgkltd.co.uk/2024/12/Bosch.svg
+  24. https://media.pgkltd.co.uk/2025/01/brochure-nogap.svg
+  25. https://media.pgkltd.co.uk/2024/10/pgk-logo.svg
+  26. https://media.pgkltd.co.uk/2024/12/Google-logo-grey.svg
+  27. https://media.pgkltd.co.uk/2025/01/Logo-2025-Col.svg
+  28. https://media.pgkltd.co.uk/2025/03/DSC_1525_HDR.jpg
+  29. https://media.pgkltd.co.uk/2025/03/DSC_1516_HDR.jpg
+  30. https://media.pgkltd.co.uk/2025/03/DSC_1495_HDR.jpg
+  31. https://media.pgkltd.co.uk/2025/03/DSC_1501_HDR.jpg
+
+[Card] https://pgkltd.co.uk/portfolio/blackgreen-greigesilkymatt/
+  1. https://media.pgkltd.co.uk/2025/03/centre.svg
+  2. https://media.pgkltd.co.uk/2025/07/left_white.svg
+  3. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27211%27%20height%3D%2754%27%20viewBox%3D%270%200%20211%2054%27%3E%3Crect%20width%3D%27211%27%20height%3D%2754%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  4. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27133%27%20height%3D%2746%27%20viewBox%3D%270%200%20133%2046%27%3E%3Crect%20width%3D%27133%27%20height%3D%2746%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  5. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085153/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Black-Green-Greige-Silky-Matt-Moods-Board-7.jpeg
+  6. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085153/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Black-Green-Greige-Silky-Matt-Moods-Board-8.jpeg
+  7. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085151/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Black-Green-Greige-Silky-Matt-Moods-Board-6.jpeg
+  8. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085152/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Black-Green-Greige-Silky-Matt-Moods-Board-9.jpeg
+  9. https://media.pgkltd.co.uk/2025/02/Black-Green-Greige-Fusion-1.jpg
+  10. https://media.pgkltd.co.uk/2025/02/Black-Green-Greige-Fusion-1-200x110.jpg
+  11. https://media.pgkltd.co.uk/2025/02/Black-Green-Greige-Fusion-1-400x221.jpg
+  12. https://media.pgkltd.co.uk/2025/02/Black-Green-Greige-Fusion-1-600x331.jpg
+  13. https://media.pgkltd.co.uk/2025/02/Black-Green-Greige-Fusion-1-800x442.jpg
+  14. https://media.pgkltd.co.uk/2025/02/Black-Green-Greige-Fusion-1-1200x663.jpg
+  15. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083651/Black-Green-Greige-Fusion-3.jpg
+  16. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083652/Black-Green-Greige-Fusion-2.jpg
+  17. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085145/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Contemporary-Black-Green-Greige-Silky-Matt-8.jpg
+  18. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-6.jpg
+  19. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-1.jpg
+  20. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-1-200x133.jpg
+  21. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-1-400x266.jpg
+  22. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-1-600x399.jpg
+  23. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-1-800x532.jpg
+  24. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-1-1200x799.jpg
+  25. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-7.jpg
+  26. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-7-200x133.jpg
+  27. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-7-400x266.jpg
+  28. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-7-600x399.jpg
+  29. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-7-800x532.jpg
+  30. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-7-1200x799.jpg
+  31. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-4.jpg
+  32. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-4-200x133.jpg
+  33. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-4-400x266.jpg
+  34. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-4-600x399.jpg
+  35. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-4-800x532.jpg
+  36. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-4-1200x799.jpg
+  37. https://media.pgkltd.co.uk/2024/12/Quooker.svg
+  38. https://media.pgkltd.co.uk/2024/12/Bosch.svg
+  39. https://media.pgkltd.co.uk/2025/01/brochure-nogap.svg
+  40. https://media.pgkltd.co.uk/2024/10/pgk-logo.svg
+  41. https://media.pgkltd.co.uk/2024/12/Google-logo-grey.svg
+  42. https://media.pgkltd.co.uk/2025/01/Logo-2025-Col.svg
+  43. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-3.jpg
+  44. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-5.jpg
+  45. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-8.jpg
+  46. https://media.pgkltd.co.uk/2024/12/PGK-•-Premium-German-Kitchens-•-Signature-Collection-•-Contemporary-Black-Green-Greige-Silky-Matt-2.jpg
+
+[Card] https://pgkltd.co.uk/portfolio/anthracite-walnutharmony/
+  1. https://media.pgkltd.co.uk/2025/03/centre.svg
+  2. https://media.pgkltd.co.uk/2025/07/left_white.svg
+  3. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27211%27%20height%3D%2754%27%20viewBox%3D%270%200%20211%2054%27%3E%3Crect%20width%3D%27211%27%20height%3D%2754%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  4. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27133%27%20height%3D%2746%27%20viewBox%3D%270%200%20133%2046%27%3E%3Crect%20width%3D%27133%27%20height%3D%2746%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  5. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085200/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Aptum-Moods-Board-2.jpeg
+  6. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085159/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Aptum-Moods-Board-3.jpeg
+  7. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085158/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Aptum-Moods-Board-4.jpeg
+  8. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085200/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Aptum-Moods-Board-1.jpeg
+  9. https://media.pgkltd.co.uk/2025/01/Anthracite-Fluted-Walnut-2.jpg
+  10. https://media.pgkltd.co.uk/2025/01/Anthracite-Fluted-Walnut-2-200x113.jpg
+  11. https://media.pgkltd.co.uk/2025/01/Anthracite-Fluted-Walnut-2-400x225.jpg
+  12. https://media.pgkltd.co.uk/2025/01/Anthracite-Fluted-Walnut-2-600x338.jpg
+  13. https://media.pgkltd.co.uk/2025/01/Anthracite-Fluted-Walnut-2-800x450.jpg
+  14. https://media.pgkltd.co.uk/2025/01/Anthracite-Fluted-Walnut-2-1200x675.jpg
+  15. https://media.pgkltd.co.uk/wp-content/uploads/2025/01/26084225/Anthracite-Fluted-Walnut-3.jpg
+  16. https://media.pgkltd.co.uk/wp-content/uploads/2025/01/26084227/Anthracite-Fluted-Walnut-1.jpg
+  17. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5.jpg
+  18. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-200x133.jpg
+  19. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-400x266.jpg
+  20. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-600x399.jpg
+  21. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-800x532.jpg
+  22. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-1200x799.jpg
+  23. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-1.jpg
+  24. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-1-200x133.jpg
+  25. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-1-400x266.jpg
+  26. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-1-600x399.jpg
+  27. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-1-800x532.jpg
+  28. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-1-1200x799.jpg
+  29. https://media.pgkltd.co.uk/2025/01/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-1.jpg
+  30. https://media.pgkltd.co.uk/2025/01/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-1-200x133.jpg
+  31. https://media.pgkltd.co.uk/2025/01/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-1-400x266.jpg
+  32. https://media.pgkltd.co.uk/2025/01/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-1-600x399.jpg
+  33. https://media.pgkltd.co.uk/2025/01/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-1-800x532.jpg
+  34. https://media.pgkltd.co.uk/2025/01/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-5-1-1200x799.jpg
+  35. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-3.jpg
+  36. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-3-200x133.jpg
+  37. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-3-400x266.jpg
+  38. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-3-600x399.jpg
+  39. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-3-800x532.jpg
+  40. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-3-1200x799.jpg
+  41. https://media.pgkltd.co.uk/2024/12/Quooker.svg
+  42. https://media.pgkltd.co.uk/2024/12/Bosch.svg
+  43. https://media.pgkltd.co.uk/2025/01/brochure-nogap.svg
+  44. https://media.pgkltd.co.uk/2024/10/pgk-logo.svg
+  45. https://media.pgkltd.co.uk/2024/12/Google-logo-grey.svg
+  46. https://media.pgkltd.co.uk/2025/01/Logo-2025-Col.svg
+  47. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-8.jpg
+  48. https://media.pgkltd.co.uk/2024/12/PGK-•-Signature-Collection-•-Contemporary-Anthracite-Fluted-Walnut-6.jpg
+
+[Card] https://pgkltd.co.uk/portfolio/plaster-brass-serenity/
+  1. https://media.pgkltd.co.uk/2025/03/centre.svg
+  2. https://media.pgkltd.co.uk/2025/07/left_white.svg
+  3. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27211%27%20height%3D%2754%27%20viewBox%3D%270%200%20211%2054%27%3E%3Crect%20width%3D%27211%27%20height%3D%2754%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  4. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27133%27%20height%3D%2746%27%20viewBox%3D%270%200%20133%2046%27%3E%3Crect%20width%3D%27133%27%20height%3D%2746%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  5. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085210/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Ellesmere-Rd-Mood-1.jpg
+  6. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085211/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Ellesmere-Rd-Mood-2.jpg
+  7. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085210/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Ellesmere-Rd-Mood-3.jpg
+  8. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085209/PGK-%E2%80%A2-Premium-German-Kitchens-%E2%80%A2-Signature-Collection-%E2%80%A2-Ellesmere-Rd-Mood.jpg
+  9. https://media.pgkltd.co.uk/2025/02/Plaster-Brass-Serenity-1.jpg
+  10. https://media.pgkltd.co.uk/2025/02/Plaster-Brass-Serenity-1-200x127.jpg
+  11. https://media.pgkltd.co.uk/2025/02/Plaster-Brass-Serenity-1-400x255.jpg
+  12. https://media.pgkltd.co.uk/2025/02/Plaster-Brass-Serenity-1-600x382.jpg
+  13. https://media.pgkltd.co.uk/2025/02/Plaster-Brass-Serenity-1-800x510.jpg
+  14. https://media.pgkltd.co.uk/2025/02/Plaster-Brass-Serenity-1-1200x765.jpg
+  15. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083654/Plaster-Brass-Serenity-2.jpg
+  16. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083653/Plaster-Brass-Serenity-3.jpg
+  17. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-1.jpg
+  18. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-1-200x133.jpg
+  19. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-1-400x266.jpg
+  20. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-1-600x399.jpg
+  21. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-1-800x532.jpg
+  22. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-1-1200x799.jpg
+  23. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-5.jpg
+  24. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-5-200x133.jpg
+  25. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-5-400x266.jpg
+  26. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-5-600x399.jpg
+  27. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-5-800x532.jpg
+  28. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-5-1200x799.jpg
+  29. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-8.jpg
+  30. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-8-200x133.jpg
+  31. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-8-400x266.jpg
+  32. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-8-600x399.jpg
+  33. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-8-800x532.jpg
+  34. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-8-1200x799.jpg
+  35. https://media.pgkltd.co.uk/2024/12/Quooker.svg
+  36. https://media.pgkltd.co.uk/2024/12/Bosch.svg
+  37. https://media.pgkltd.co.uk/2025/01/brochure-nogap.svg
+  38. https://media.pgkltd.co.uk/2024/10/pgk-logo.svg
+  39. https://media.pgkltd.co.uk/2024/12/Google-logo-grey.svg
+  40. https://media.pgkltd.co.uk/2025/01/Logo-2025-Col.svg
+  41. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-9.jpg
+  42. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-3.jpg
+  43. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-7.jpg
+  44. https://media.pgkltd.co.uk/2024/12/PGK-SC-Traditional-Ellesmere-Rd-2.jpg
+
+[Card] https://pgkltd.co.uk/portfolio/slate-grey/
+  1. https://media.pgkltd.co.uk/2025/03/centre.svg
+  2. https://media.pgkltd.co.uk/2025/07/left_white.svg
+  3. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27211%27%20height%3D%2754%27%20viewBox%3D%270%200%20211%2054%27%3E%3Crect%20width%3D%27211%27%20height%3D%2754%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  4. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27133%27%20height%3D%2746%27%20viewBox%3D%270%200%20133%2046%27%3E%3Crect%20width%3D%27133%27%20height%3D%2746%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  5. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085229/PGK-Focus-Contemporary-Mood-2.jpeg
+  6. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085138/PGK-Focus-Traditional-Mood-2.jpg
+  7. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085138/PGK-Focus-Traditional-Mood-1.jpg
+  8. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085218/PGK-Focus-Traditional-Mood.jpeg
+  9. https://media.pgkltd.co.uk/2025/02/Slate-Shaker-Harmony-2.jpg
+  10. https://media.pgkltd.co.uk/2025/02/Slate-Shaker-Harmony-2-200x127.jpg
+  11. https://media.pgkltd.co.uk/2025/02/Slate-Shaker-Harmony-2-400x255.jpg
+  12. https://media.pgkltd.co.uk/2025/02/Slate-Shaker-Harmony-2-600x382.jpg
+  13. https://media.pgkltd.co.uk/2025/02/Slate-Shaker-Harmony-2-800x510.jpg
+  14. https://media.pgkltd.co.uk/2025/02/Slate-Shaker-Harmony-2-1200x765.jpg
+  15. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083658/Slate-Shaker-Harmony-1.jpg
+  16. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083656/Slate-Shaker-Harmony-3.jpg
+  17. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085241/Focus-%E2%80%93-Traditional-%E2%80%93-Malbern-Rd-UB3-%E2%80%93-PGK-2.jpg
+  18. https://media.pgkltd.co.uk/2025/03/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-14.jpg
+  19. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085245/Focus-%E2%80%93-Traditional-%E2%80%93-Malbern-Rd-UB3-%E2%80%93-PGK-7.jpg
+  20. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-6.jpg
+  21. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-6-200x133.jpg
+  22. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-6-400x267.jpg
+  23. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-6-600x400.jpg
+  24. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-6-800x533.jpg
+  25. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-6-1200x800.jpg
+  26. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-4.jpg
+  27. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-4-200x133.jpg
+  28. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-4-400x267.jpg
+  29. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-4-600x400.jpg
+  30. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-4-800x533.jpg
+  31. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-4-1200x800.jpg
+  32. https://media.pgkltd.co.uk/2024/12/Quooker.svg
+  33. https://media.pgkltd.co.uk/2024/12/Bosch.svg
+  34. https://media.pgkltd.co.uk/2025/01/brochure-nogap.svg
+  35. https://media.pgkltd.co.uk/2024/10/pgk-logo.svg
+  36. https://media.pgkltd.co.uk/2024/12/Google-logo-grey.svg
+  37. https://media.pgkltd.co.uk/2025/01/Logo-2025-Col.svg
+  38. https://media.pgkltd.co.uk/2025/03/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-2.jpg
+  39. https://media.pgkltd.co.uk/2025/03/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-5.jpg
+  40. https://media.pgkltd.co.uk/2025/03/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-8.jpg
+  41. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-3.jpg
+  42. https://media.pgkltd.co.uk/2024/12/Focus-–-Traditional-–-Malbern-Rd-UB3-–-PGK-5.jpg
+
+[Card] https://pgkltd.co.uk/portfolio/concrete-metallic/
+  1. https://media.pgkltd.co.uk/2025/03/centre.svg
+  2. https://media.pgkltd.co.uk/2025/07/left_white.svg
+  3. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27211%27%20height%3D%2754%27%20viewBox%3D%270%200%20211%2054%27%3E%3Crect%20width%3D%27211%27%20height%3D%2754%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  4. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27133%27%20height%3D%2746%27%20viewBox%3D%270%200%20133%2046%27%3E%3Crect%20width%3D%27133%27%20height%3D%2746%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  5. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085229/PGK-Focus-Contemporary-Mood-2.jpeg
+  6. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085230/Focus-Contemporary-OCEAN-GREY-Porcelain-Slabs.jpg
+  7. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085229/benchtops-concrete-look-basalt.jpg
+  8. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085228/PGK-Focus-Contemporary-Mood-1.jpeg
+  9. https://media.pgkltd.co.uk/2025/02/Concrete-Metallic-Elegance-2.jpg
+  10. https://media.pgkltd.co.uk/2025/02/Concrete-Metallic-Elegance-2-200x127.jpg
+  11. https://media.pgkltd.co.uk/2025/02/Concrete-Metallic-Elegance-2-400x255.jpg
+  12. https://media.pgkltd.co.uk/2025/02/Concrete-Metallic-Elegance-2-600x382.jpg
+  13. https://media.pgkltd.co.uk/2025/02/Concrete-Metallic-Elegance-2-800x510.jpg
+  14. https://media.pgkltd.co.uk/2025/02/Concrete-Metallic-Elegance-2-1200x765.jpg
+  15. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083700/Concrete-Metallic-Elegance-3.jpg
+  16. https://media.pgkltd.co.uk/wp-content/uploads/2025/02/26083659/Concrete-Metallic-Elegance-1.jpg
+  17. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-9.jpg
+  18. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-9-200x133.jpg
+  19. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-9-400x266.jpg
+  20. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-9-600x399.jpg
+  21. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-9-800x532.jpg
+  22. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-9-1200x799.jpg
+  23. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-12.jpg
+  24. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-12-200x133.jpg
+  25. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-12-400x266.jpg
+  26. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-12-600x399.jpg
+  27. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-12-800x532.jpg
+  28. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-12-1200x799.jpg
+  29. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085237/Focus-Contemporary-%E2%80%93-White-Concrete-Basalt-PGK-4.jpg
+  30. https://media.pgkltd.co.uk/wp-content/uploads/2024/12/26085238/Focus-Contemporary-%E2%80%93-White-Concrete-Basalt-PGK-3.jpg
+  31. https://media.pgkltd.co.uk/2024/12/Quooker.svg
+  32. https://media.pgkltd.co.uk/2024/12/Bosch.svg
+  33. https://media.pgkltd.co.uk/2025/01/brochure-nogap.svg
+  34. https://media.pgkltd.co.uk/2024/10/pgk-logo.svg
+  35. https://media.pgkltd.co.uk/2024/12/Google-logo-grey.svg
+  36. https://media.pgkltd.co.uk/2025/01/Logo-2025-Col.svg
+  37. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-2.jpg
+  38. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-4.jpg
+  39. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-5.jpg
+  40. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-7.jpg
+  41. https://media.pgkltd.co.uk/2024/12/Focus-Contemporary-–-White-Concrete-Basalt-PGK-1.jpg
+
+[Card] https://pgkltd.co.uk/portfolio/cashmere-brass-elegance/
+  1. https://media.pgkltd.co.uk/2025/03/centre.svg
+  2. https://media.pgkltd.co.uk/2025/07/left_white.svg
+  3. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27211%27%20height%3D%2754%27%20viewBox%3D%270%200%20211%2054%27%3E%3Crect%20width%3D%27211%27%20height%3D%2754%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  4. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27133%27%20height%3D%2746%27%20viewBox%3D%270%200%20133%2046%27%3E%3Crect%20width%3D%27133%27%20height%3D%2746%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  5. https://media.pgkltd.co.uk/2025/10/DSC01354.jpg
+  6. https://media.pgkltd.co.uk/2025/10/DSC01344.jpg
+  7. https://media.pgkltd.co.uk/2025/10/DSC01359.jpg
+  8. https://media.pgkltd.co.uk/2025/10/DSC01360.jpg
+  9. https://media.pgkltd.co.uk/2025/10/DSC01362.jpg
+  10. https://media.pgkltd.co.uk/2025/10/DSC01377.jpg
+  11. https://media.pgkltd.co.uk/2025/01/brochure-nogap.svg
+  12. https://media.pgkltd.co.uk/2024/10/pgk-logo.svg
+  13. https://media.pgkltd.co.uk/2024/12/Google-logo-grey.svg
+  14. https://media.pgkltd.co.uk/2025/01/Logo-2025-Col.svg
+
+[Card] https://pgkltd.co.uk/portfolio/alpine-obsidian-edge/
+  1. https://media.pgkltd.co.uk/2025/03/centre.svg
+  2. https://media.pgkltd.co.uk/2025/07/left_white.svg
+  3. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27211%27%20height%3D%2754%27%20viewBox%3D%270%200%20211%2054%27%3E%3Crect%20width%3D%27211%27%20height%3D%2754%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  4. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27133%27%20height%3D%2746%27%20viewBox%3D%270%200%20133%2046%27%3E%3Crect%20width%3D%27133%27%20height%3D%2746%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  5. https://media.pgkltd.co.uk/2025/10/DSC01321.jpg
+  6. https://media.pgkltd.co.uk/2025/10/DSC01309.jpg
+  7. https://media.pgkltd.co.uk/2025/10/DSC01325.jpg
+  8. https://media.pgkltd.co.uk/2025/10/DSC01331.jpg
+  9. https://media.pgkltd.co.uk/2025/01/brochure-nogap.svg
+  10. https://media.pgkltd.co.uk/2024/10/pgk-logo.svg
+  11. https://media.pgkltd.co.uk/2024/12/Google-logo-grey.svg
+  12. https://media.pgkltd.co.uk/2025/01/Logo-2025-Col.svg
+
+[Card] https://pgkltd.co.uk/portfolio/alpine-quartz-serenity/
+  1. https://media.pgkltd.co.uk/2025/03/centre.svg
+  2. https://media.pgkltd.co.uk/2025/07/left_white.svg
+  3. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27211%27%20height%3D%2754%27%20viewBox%3D%270%200%20211%2054%27%3E%3Crect%20width%3D%27211%27%20height%3D%2754%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  4. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27133%27%20height%3D%2746%27%20viewBox%3D%270%200%20133%2046%27%3E%3Crect%20width%3D%27133%27%20height%3D%2746%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  5. https://media.pgkltd.co.uk/2025/10/DSC00960.jpg
+  6. https://media.pgkltd.co.uk/2025/10/DSC00998.jpg
+  7. https://media.pgkltd.co.uk/2025/10/DSC00996.jpg
+  8. https://media.pgkltd.co.uk/2025/10/DSC00993.jpg
+  9. https://media.pgkltd.co.uk/2025/10/DSC00991.jpg
+  10. https://media.pgkltd.co.uk/2025/10/DSC00985.jpg
+  11. https://media.pgkltd.co.uk/2025/10/DSC00974.jpg
+  12. https://media.pgkltd.co.uk/2025/10/DSC00955.jpg
+  13. https://media.pgkltd.co.uk/2025/10/DSC00952.jpg
+  14. https://media.pgkltd.co.uk/2025/10/DSC00950.jpg
+  15. https://media.pgkltd.co.uk/2025/10/DSC00948.jpg
+  16. https://media.pgkltd.co.uk/2025/10/DSC00945.jpg
+  17. https://media.pgkltd.co.uk/2025/10/DSC00972.jpg
+  18. https://media.pgkltd.co.uk/2025/01/brochure-nogap.svg
+  19. https://media.pgkltd.co.uk/2024/10/pgk-logo.svg
+  20. https://media.pgkltd.co.uk/2024/12/Google-logo-grey.svg
+  21. https://media.pgkltd.co.uk/2025/01/Logo-2025-Col.svg
+
+[Card] https://pgkltd.co.uk/portfolio/anthracite-oak-harmony/
+  1. https://media.pgkltd.co.uk/2025/03/centre.svg
+  2. https://media.pgkltd.co.uk/2025/07/left_white.svg
+  3. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27211%27%20height%3D%2754%27%20viewBox%3D%270%200%20211%2054%27%3E%3Crect%20width%3D%27211%27%20height%3D%2754%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  4. https://media.pgkltd.co.uk/2025/03/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27133%27%20height%3D%2746%27%20viewBox%3D%270%200%20133%2046%27%3E%3Crect%20width%3D%27133%27%20height%3D%2746%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E
+  5. https://media.pgkltd.co.uk/2025/10/DSC00895.jpg
+  6. https://media.pgkltd.co.uk/2025/10/DSC009311.jpg
+  7. https://media.pgkltd.co.uk/2025/10/DSC00913.jpg
+  8. https://media.pgkltd.co.uk/2025/10/DSC00911.jpg
+  9. https://media.pgkltd.co.uk/2025/10/DSC00907.jpg
+  10. https://media.pgkltd.co.uk/2025/10/DSC00898.jpg
+  11. https://media.pgkltd.co.uk/2025/01/brochure-nogap.svg
+  12. https://media.pgkltd.co.uk/2024/10/pgk-logo.svg
+  13. https://media.pgkltd.co.uk/2024/12/Google-logo-grey.svg
+  14. https://media.pgkltd.co.uk/2025/01/Logo-2025-Col.svg
